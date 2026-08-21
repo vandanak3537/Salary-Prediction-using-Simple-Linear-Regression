@@ -1,4 +1,4 @@
-##Salary Prediction using Simple Linear Regression
+Salary Prediction using Simple Linear Regression
 
 A beginner-level machine learning project that predicts salary based on years of experience using Simple Linear Regression.
 
